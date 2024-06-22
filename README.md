@@ -1,8 +1,13 @@
 # MTDP
 Tile Detection based on Mask R-CNN in Non-Structural Environment for Robotic Tiling.</br></br>
-Robotic tiling is an efficient way to replace manual work, with tile detection and positioning serving as a pivotal technology. However, the tiling environment is characterized by its complexity. Our study introduces the instance segmentation method Mask R-CNN, which can detect tiles in non-structural environments after proper training. To address the difficulty of acquiring datasets and high annotation costs, a densely arranged tile dataset that allows for automatic labeling has been synthesized and various designed data augmentation techniques are employed. </br></br>
+Robotic tiling is an efficient way to replace manual work, with tile detection and positioning serving as a pivotal technology. However, the tiling environment is characterized by its complexity. Our study introduces the instance segmentation method Mask R-CNN, which can detect tiles in non-structural environments after proper training. To address the difficulty of acquiring datasets and high annotation costs, a densely arranged tile dataset that allows for automatic labeling has been synthesized and various designed data augmentation techniques are employed. The trained model achieves a detection performance with AP75=98.94% and AP95=88.14% on 100 test images.This repository encompasses all the tile datasets used, the core programs, as well as the trained models.</br></br></br>
+![image](https://github.com/Yooooran/MTDP/assets/103570083/437651b8-d412-4018-8e6a-2a178c318f04)
+![image](https://github.com/Yooooran/MTDP/assets/103570083/7b3574a1-3bbf-4da7-92e6-1aee2b44a89d)
+![image](https://github.com/Yooooran/MTDP/assets/103570083/9fb2ed8e-7be0-40dc-9009-e4cd69c1f672)
+
+
+
 # Download
-This repository encompasses all the tile datasets used, the core programs, as well as the trained models.</br>
 - at the [TeraBox](https://terabox.com/s/1I7THz2RfGos_XxSLgqI7RQ).
 - or, at the [Baidu Netdisk](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
 
