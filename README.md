@@ -38,12 +38,15 @@ model and image through change image path or model path for example:
 Please run train.py, the training parameters can be adjusted in function main. If you want to add your own images, please
 prepare tile images and the corresponding annotated masks and put them in folder "DataSet/source/Set-xxx/image" and 
 "DataSet/source/Set-xxx/mask" respectively. Please pay attention that the names of image file and mask file should be 
-the same.
+the same.<br>
+For more information, please see chapter 3.3 and 4.1 in our research article.
 # Evaluate Models
 It is easy to evaluate the performance of trained model, please run evaluate.py, for example:
 >if __name__ == "__main__": <br>
 &ensp;&ensp; # evaluate_key_points()  # evaluate key point errors <br>
 &ensp;&ensp; evaluate_model()  # evaluate model performance
+> 
+For more information, please see chapter 4.1 in our research article.
 # Generate Set-A and Set-B
 WARNING!!! Set-A and Set-B are already established, so before you try to generate new Set-A or Set-B, you should save data
 in folder "DataSet/source/Set-A" and "DataSet/source/Set-B" to another folder as a separate copy. If you start generation, 
@@ -52,6 +55,10 @@ the files in the folders below will be replaced.
 If you want to try to generate Set-A or Set-B, please run "DataSet/source/DataGenerator.py". The generated data will be
 saved in folder "DataSet/source/Set-A" and "DataSet/source/Set-B".<br>
 For more information, please see chapter 3.1 and 3.2 in our research article.
+
+
+
+
 
 
 
