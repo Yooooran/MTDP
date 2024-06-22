@@ -46,8 +46,8 @@ It is easy to evaluate the performance of trained model, please run evaluate.py,
 &ensp;&ensp; evaluate_model()  # evaluate model performance
 # Generate Set-A and Set-B
 WARNING!!! Set-A and Set-B are already established, so before you try to generate new Set-A or Set-B, you should save data
-in folder "DataSet/source/Set-A" and "DataSet/source/Set-B" as a separate copy. If you start generation, the files in the 
-folders below will be replaced.
+in folder "DataSet/source/Set-A" and "DataSet/source/Set-B" to another folder as a separate copy. If you start generation, 
+the files in the folders below will be replaced.
 ---
 If you want to try to generate Set-A or Set-B, please run "DataSet/source/DataGenerator.py". The generated data will be
 saved in folder "DataSet/source/Set-A" and "DataSet/source/Set-B".<br>
