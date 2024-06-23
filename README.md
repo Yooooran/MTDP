@@ -8,7 +8,7 @@ Robotic tiling is an efficient way to replace manual work, with tile detection a
 
 
 # Download
-- at the [TeraBox](https://terabox.com/s/1I7THz2RfGos_XxSLgqI7RQ).
+- at the [TeraBox](https://terabox.com/s/1247Lj-eVOCGqWNWe5L4Qxw)
 - or, at the [Baidu Netdisk](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
 
 # Overview
