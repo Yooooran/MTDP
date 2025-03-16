@@ -1,5 +1,5 @@
 # Related Publications:
-Tile detection using mask R-CNN in non-structural environment for robotic tiling
+Tile detection using mask R-CNN in non-structural environment for robotic tiling, Automation in Construction
 https://www.sciencedirect.com/science/article/abs/pii/S0926580525000500
 
 # MTDP
