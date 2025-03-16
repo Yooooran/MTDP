@@ -1,5 +1,5 @@
 # Related Publications:
-Tile detection using mask R-CNN in non-structural environment for robotic tiling[J]. Automation in Construction, 2025, 171: 106010.
+Lu L, Sun N, Wang Z, et al. Tile detection using mask R-CNN in non-structural environment for robotic tiling[J]. Automation in Construction, 2025, 171: 106010.
 https://www.sciencedirect.com/science/article/abs/pii/S0926580525000500
 
 # MTDP
